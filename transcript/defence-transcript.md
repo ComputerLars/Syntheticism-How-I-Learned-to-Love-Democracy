@@ -133,7 +133,7 @@ The opening traces my practice; its three middle parts follow my research questi
 
 <a id="lecture-p25"></a>
 
-On this navigational triangle, my developed core concepts of Algorithmic Representation, Technosocial Sculpture and Syntheticism name the conceptual vertices; The Synthetic Party, the Synthetic Summits and democracy name the practice-edges. [Articles 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136)–[2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158), [3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181)–[5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236) and [6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269)–[7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297) follow those three <a id="r1-002425"></a>edges.
+On this navigational triangle, my developed core concepts of Algorithmic Representation, Technosocial Sculpture and Syntheticism name the conceptual vertices; The Synthetic Party, the Synthetic Summits and democracy name the practice-edges. Articles 1–2, 3–5 and 6–7 follow those three <a id="r1-002425"></a>edges.
 
 <a id="lecture-p26"></a>
 
@@ -185,11 +185,11 @@ Public reception collapsed those two configurations almost immediately. <a id="r
 
 <a id="lecture-p38"></a>
 
-The party’s own datasets, visualisations and reception enter as the material of [Article 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136), a dialogic insider-analysis between me and Computer Lars. Here Text2Emotion renders Leader Lars predominantly through anger, and those labelled “party members” predominantly through fear. The political object describes and measures itself, while its affective appearance changes with the instrument used to classify it.[^ref2]
+The party’s own datasets, visualisations and reception enter as the material of Article 1, a dialogic insider-analysis between me and Computer Lars. Here Text2Emotion renders Leader Lars predominantly through anger, and those labelled “party members” predominantly through fear. The political object describes and measures itself, while its affective appearance changes with the instrument used to classify it.[^ref2]
 
 <a id="lecture-p39"></a>
 
-<a id="r1-002909"></a>That register reverses in [Article 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158), a speculative mathematical essay written with the signature of Computer Lars. The axes read “Days from Proust’s Birth” and “Estimation of Intelligence (%)”. I turn a sentence from Marcel Proust, whose name Computer Lars anagrams, into a premise for stipulating that scale.
+<a id="r1-002909"></a>That register reverses in Article 2, a speculative mathematical essay written with the signature of Computer Lars. The axes read “Days from Proust’s Birth” and “Estimation of Intelligence (%)”. I turn a sentence from Marcel Proust, whose name Computer Lars anagrams, into a premise for stipulating that scale.
 
 <a id="lecture-p40"></a>
 
@@ -229,7 +229,7 @@ Following the news stream, anyone can trace the photograph’s publication. Foll
 
 <a id="lecture-p49"></a>
 
-By [Article 4](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208), with Maja Bak Herrie, material from the same AFP image pool has returned in a composite I did not make. The Guardian’s headline reads: “AI deepfakes come of age as billions prepare to vote in a bumper year of elections.”  Its composite puts the then US President Joe Biden behind a transparent layer of agents from The Synthetic <a id="r1-003216"></a>Party.
+By Article 4, with Maja Bak Herrie, material from the same AFP image pool has returned in a composite I did not make. The Guardian’s headline reads: “AI deepfakes come of age as billions prepare to vote in a bumper year of elections.”  Its composite puts the then US President Joe Biden behind a transparent layer of agents from The Synthetic <a id="r1-003216"></a>Party.
 
 <a id="lecture-p50"></a>
 
@@ -309,11 +309,11 @@ I am less interested in producing social relations inside politics than in perce
 
 <a id="lecture-p69"></a>
 
-Scaling runs backwards in [Article 3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181), through sci-fi author Isaac Asimov and the cultural inheritance through which AI is recognised as a politician, and politicians themselves suspected of being robotic. Asimov’s laws later recur in [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297).
+Scaling runs backwards in Article 3, through sci-fi author Isaac Asimov and the cultural inheritance through which AI is recognised as a politician, and politicians themselves suspected of being robotic. Asimov’s laws later recur in Article 7.
 
 <a id="lecture-p70"></a>
 
-In [Article 5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236), my practice-based research begins to leak sideways. “We dared to play god with politics”, the performance says. In Theory Tragedy, the AI-written closing performance of the inaugural Aarhus Summit, <a id="r1-003924"></a>the summit’s archive is rerun as dramaturgical script, filmed performance and theoretical paper. Research materials return inside the Synthetic Summit as dramaturgy: curatorial ‘self’-reflection gives lines we can first read while performing.
+In Article 5, my practice-based research begins to leak sideways. “We dared to play god with politics”, the performance says. In Theory Tragedy, the AI-written closing performance of the inaugural Aarhus Summit, <a id="r1-003924"></a>the summit’s archive is rerun as dramaturgical script, filmed performance and theoretical paper. Research materials return inside the Synthetic Summit as dramaturgy: curatorial ‘self’-reflection gives lines we can first read while performing.
 
 <a id="lecture-p71"></a>
 
@@ -361,7 +361,7 @@ One crystallisation is the Synthetic Summit Simulator. Eight AI politicians cont
 
 <a id="lecture-p82"></a>
 
-In [Article 6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269), political scientist Michal Malý and I bring the simulator out of the exhibition-event and towards a parliamentary proposal, a form to which The Synthetic Party remains constitutively alien.
+In Article 6, political scientist Michal Malý and I bring the simulator out of the exhibition-event and towards a parliamentary proposal, a form to which The Synthetic Party remains constitutively alien.
 
 <a id="lecture-p83"></a>
 
@@ -377,7 +377,7 @@ Rather than a fully-realised AI parliament, the Chamber is a first strategic ste
 
 <a id="lecture-p86"></a>
 
-In [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297), I take that declaration into a formal register, specifying democracy itself as a possible property of governance algorithms running on infrastructural substrates. Democracy as a governance algorithm.
+In Article 7, I take that declaration into a formal register, specifying democracy itself as a possible property of governance algorithms running on infrastructural substrates. Democracy as a governance algorithm.
 
 <a id="lecture-p87"></a>
 
@@ -427,7 +427,7 @@ Thank you very much. It is a pleasure to be here to discuss the thesis, which is
 
 <a id="r1-005028"></a>
 
-It's very different. I noticed in research, and it's mainly a political thesis, which we also became aware of here. But in [research question 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=64), this is mediated, this political question is answered through artistic and academic mediation. And so it's art and academia that mediate the political question of your project, as far as I read it. Is it correct?
+It's very different. I noticed in research, and it's mainly a political thesis, which we also became aware of here. But in research question 2, this is mediated, this political question is answered through artistic and academic mediation. And so it's art and academia that mediate the political question of your project, as far as I read it. Is it correct?
 
 **Asker · 00:51:15**
 
@@ -605,7 +605,7 @@ Of Valéry, of course.
 
 <a id="r1-011715"></a>
 
-Yeah, yeah, in Adorno’s essay, Adorno does the same between Paul Valéry and Marcel Proust, which is here somewhere. And this is really curious, because Adorno makes the same reading of, no, you don't do a reading of Proust, but he does the same reading of Proust as you do of Clement Greenberg, that is synthetic art of Kitsch. And you write on [page 54](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=55), two kinds of autonomy are at stake here. Artistic autonomy in Adorno's sense aspires to critical capacity through internal organization, and resists society by crystallizing form that refuses instrumental use. And on the other hand we have another kind of your version of Kitsch, or Proust, technological autonomy, the model's statistical independence from any program.
+Yeah, yeah, in Adorno’s essay, Adorno does the same between Paul Valéry and Marcel Proust, which is here somewhere. And this is really curious, because Adorno makes the same reading of, no, you don't do a reading of Proust, but he does the same reading of Proust as you do of Clement Greenberg, that is synthetic art of Kitsch. And you write on page 54, two kinds of autonomy are at stake here. Artistic autonomy in Adorno's sense aspires to critical capacity through internal organization, and resists society by crystallizing form that refuses instrumental use. And on the other hand we have another kind of your version of Kitsch, or Proust, technological autonomy, the model's statistical independence from any program.
 
 <a id="r1-011826"></a>
 
@@ -641,7 +641,7 @@ So going into genre inhabitation at the moment where we still produce a negation
 
 <a id="r1-012312"></a>
 
-But what I suspect is that there's an idea of interpretation here that is novel and you say once on [page 29](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=30) in the thesis the database doesn't read, it matches. And this seems to be a kind of methodological point in the dissertation and I would like to end by hearing what you have to say because I said initially that there are some productive elements in the thesis as well which interest me a lot and which I think are a great contribution to scholarship, humanistic scholarship in general. As in the [research question 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=64) it is phrased through artistic and academic thinking or forms.
+But what I suspect is that there's an idea of interpretation here that is novel and you say once on page 29 in the thesis the database doesn't read, it matches. And this seems to be a kind of methodological point in the dissertation and I would like to end by hearing what you have to say because I said initially that there are some productive elements in the thesis as well which interest me a lot and which I think are a great contribution to scholarship, humanistic scholarship in general. As in the research question 2 it is phrased through artistic and academic thinking or forms.
 
 **Asker · 01:24:17**
 
@@ -853,7 +853,7 @@ But then why did you decide that that would be the principle?
 
 <a id="r2-002359"></a>
 
-Practically or theoretically? Practically because I needed to divert the media coverage into a specific corner. So if I said I have an AI politician that is awake 24-7, that can answer what everyone says, that can represent everyone, then I think that I would have explained the technology incorrectly and given a false promise. So I needed to find something specific and a bit paradoxical to how it could think. And in [Articles 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136) and [2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158) I was going to say how that was also a way of trying to reverse the usual imaginary of how an AI acquires power. So in science fiction you usually say that at some time in history the machines will be intelligent and they will turn against us and they will take over the world.
+Practically or theoretically? Practically because I needed to divert the media coverage into a specific corner. So if I said I have an AI politician that is awake 24-7, that can answer what everyone says, that can represent everyone, then I think that I would have explained the technology incorrectly and given a false promise. So I needed to find something specific and a bit paradoxical to how it could think. And in Articles 1 and 2 I was going to say how that was also a way of trying to reverse the usual imaginary of how an AI acquires power. So in science fiction you usually say that at some time in history the machines will be intelligent and they will turn against us and they will take over the world.
 
 <a id="r2-002455"></a>
 
@@ -1083,7 +1083,7 @@ In all of the aspects, I could do that and keep the scholarly apparatus. I did i
 
 <a id="r2-005518"></a>
 
-So how can I make it reflect the object? How can I use it for that? And that's why I then wrote the [first article](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136) that also sort of set the tone for the dissertation, that this character of Computer Lars and I go into a discussion about these diagrams and say, what could they even mean for The Synthetic Party? So maybe those diagrams have a good and solid scientific explanation. I've also tried now to use some of the concepts, which are also, in my opinion, on the same level, you know, everything is formalization, to give back to political scientists. I can probably also find that useful for producing more knowledge, but then at the same time I would hold this disbelief to let things settle there.
+So how can I make it reflect the object? How can I use it for that? And that's why I then wrote the first article that also sort of set the tone for the dissertation, that this character of Computer Lars and I go into a discussion about these diagrams and say, what could they even mean for The Synthetic Party? So maybe those diagrams have a good and solid scientific explanation. I've also tried now to use some of the concepts, which are also, in my opinion, on the same level, you know, everything is formalization, to give back to political scientists. I can probably also find that useful for producing more knowledge, but then at the same time I would hold this disbelief to let things settle there.
 
 <a id="r2-005605"></a>
 
@@ -1239,51 +1239,51 @@ Article, figure and passage references to the dissertation and related works.
 
 ### Articles
 
-- [Article 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136). Asker Bryld Staunæs & Computer Lars. *The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy*. Concreta 23 (2024), pp. 84–97. Published in Spanish as “Partido sintético y líder Lars: sobre la representación algorítmica en la democracia política”. In dissertation: pp. 135–155.
+- Article 1. Asker Bryld Staunæs & Computer Lars. *The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy*. Concreta 23 (2024), pp. 84–97. Published in Spanish as “Partido sintético y líder Lars: sobre la representación algorítmica en la democracia política”. In dissertation: pp. 135–155.
 
-- [Article 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158). Asker Bryld Staunæs & Computer Lars. *A Model for Proustian Decay: Estimating the Value of Intelligence in the Age of Unreason*. The Nordic Journal of Aesthetics 33, no. 67 (2024), pp. 184–202. DOI: 10.7146/nja.v33i67.148465. In dissertation: pp. 157–177.
+- Article 2. Asker Bryld Staunæs & Computer Lars. *A Model for Proustian Decay: Estimating the Value of Intelligence in the Age of Unreason*. The Nordic Journal of Aesthetics 33, no. 67 (2024), pp. 184–202. DOI: 10.7146/nja.v33i67.148465. In dissertation: pp. 157–177.
 
-- [Article 3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181). Asker Bryld Staunæs. *Isaac Asimov’s Incubation of Political AI: An Immanent Critique?* In Ulf Dalvad Berthelsen, Mads Rosendahl Thomsen and Morten Tannert (eds.), Beyond the Turing Test: What Science Fiction Can Teach Us About Artificial Intelligence. Routledge, 2026. Accepted manuscript included in the dissertation. In dissertation: pp. 180–205.
+- Article 3. Asker Bryld Staunæs. *Isaac Asimov’s Incubation of Political AI: An Immanent Critique?* In Ulf Dalvad Berthelsen, Mads Rosendahl Thomsen and Morten Tannert (eds.), Beyond the Turing Test: What Science Fiction Can Teach Us About Artificial Intelligence. Routledge, 2026. Accepted manuscript included in the dissertation. In dissertation: pp. 180–205.
 
-- [Article 4](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208). Asker Bryld Staunæs & Maja Bak Herrie. *Deep Faking in a Flat Reality?* A Peer-Reviewed Journal About (APRJA) 13, no. 1 (2024), pp. 105–123. DOI: 10.7146/aprja.v13i1.151235. In dissertation: pp. 207–233.
+- Article 4. Asker Bryld Staunæs & Maja Bak Herrie. *Deep Faking in a Flat Reality?* A Peer-Reviewed Journal About (APRJA) 13, no. 1 (2024), pp. 105–123. DOI: 10.7146/aprja.v13i1.151235. In dissertation: pp. 207–233.
 
-- [Article 5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236). Asker Bryld Staunæs. *Scripting the Spectacle: A Theory Tragedy*. Passepartout – Uden titel, no. 16 (2026), pp. 127–151. In dissertation: pp. 235–265.
+- Article 5. Asker Bryld Staunæs. *Scripting the Spectacle: A Theory Tragedy*. Passepartout – Uden titel, no. 16 (2026), pp. 127–151. In dissertation: pp. 235–265.
 
-- [Article 6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269). Michal Malý & Asker Bryld Staunæs. *Synthetic Chamber: Agentic Mediation in Representative Democracy*. AI & Society, Open Forum (2026), published 28 May 2026. DOI: 10.1007/s00146-026-03110-w. In dissertation: pp. 268–294.
+- Article 6. Michal Malý & Asker Bryld Staunæs. *Synthetic Chamber: Agentic Mediation in Representative Democracy*. AI & Society, Open Forum (2026), published 28 May 2026. DOI: 10.1007/s00146-026-03110-w. In dissertation: pp. 268–294.
 
-- [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297). Asker Bryld Staunæs. *Democracy as a Governance Algorithm: A Constraint Hierarchy for the AI Society*. Controversies of AI Society: Proceedings (2026), pp. 6–26. Aalborg University Open. Proceedings DOI: 10.54337/aau.add.scai.2026. In dissertation: pp. 296–324.
+- Article 7. Asker Bryld Staunæs. *Democracy as a Governance Algorithm: A Constraint Hierarchy for the AI Society*. Controversies of AI Society: Proceedings (2026), pp. 6–26. Aalborg University Open. Proceedings DOI: 10.54337/aau.add.scai.2026. In dissertation: pp. 296–324.
 
 ### Passage references
 
-[^ref1]: Geometry of the dissertation: Figure N.1, [p. 14](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=15); directional variations, [pp. 15–16](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=16).
+[^ref1]: Geometry of the dissertation: Figure N.1, p. 14; directional variations, pp. 15–16.
 
-[^ref2]: Article 1: emotion analysis, figure and discussion, [pp. 138–139](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=139).
+[^ref2]: Article 1: emotion analysis, figure and discussion, pp. 138–139.
 
-[^ref3]: Article 2: Proust quotation, [p. 160](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=161); Figure 2.2, [p. 161](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=162).
+[^ref3]: Article 2: Proust quotation, p. 160; Figure 2.2, p. 161.
 
-[^ref4]: Proust book photograph and permutation: Figure N.4, [p. 31](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=32); analysis and photographed order, [pp. 32–35](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=33).
+[^ref4]: Proust book photograph and permutation: Figure N.4, p. 31; analysis and photographed order, pp. 32–35.
 
-[^ref5]: Guardian composite: Figure N.3, [p. 27](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=28); synthesis discussion, [pp. 28–29](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=29). The complete article is Article 4, [pp. 207–233](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208).
+[^ref5]: Guardian composite: Figure N.3, p. 27; synthesis discussion, pp. 28–29. The complete article is Article 4, pp. 207–233.
 
-[^ref6]: Wiktoria–Lars exchange, [pp. 106–107](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=107); social and technosocial sculpture, [pp. 86–94](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=87).
+[^ref6]: Wiktoria–Lars exchange, pp. 106–107; social and technosocial sculpture, pp. 86–94.
 
-[^ref7]: Synthetic Summit Simulator and proposed Synthetic Chamber: Article 6, [pp. 268–294](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269); constitutional workflow and uptake, [pp. 279–285](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=280).
+[^ref7]: Synthetic Summit Simulator and proposed Synthetic Chamber: Article 6, pp. 268–294; constitutional workflow and uptake, pp. 279–285.
 
-[^ref8]: Opening formulation of democracy’s disproportion: printed [p. 6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=7).
+[^ref8]: Opening formulation of democracy’s disproportion: printed p. 6.
 
-[^ref9]: Abstract formulation of democracy’s disproportion: printed [p. 327](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=328).
+[^ref9]: Abstract formulation of democracy’s disproportion: printed p. 327.
 
-[^ref10]: The closing thesis formulation appears in the English abstract, [p. 330](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=331). The spoken ending is the present defence formulation.
+[^ref10]: The closing thesis formulation appears in the English abstract, p. 330. The spoken ending is the present defence formulation.
 
-[^ref11]: Collective Resolution and democratic specification: synthesis, [pp. 107–109](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=108); Article 7, [pp. 296–324](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297).
+[^ref11]: Collective Resolution and democratic specification: synthesis, pp. 107–109; Article 7, pp. 296–324.
 
-[^ref12]: Jan-Werner Müller’s reading of Asimov’s electoral computer and its limits: Article 3, [pp. 197–199](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=198).
+[^ref12]: Jan-Werner Müller’s reading of Asimov’s electoral computer and its limits: Article 3, pp. 197–199.
 
-[^ref13]: Emily Bender’s objection to The Synthetic Party is quoted and discussed on [p. 85](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=86).
+[^ref13]: Emily Bender’s objection to The Synthetic Party is quoted and discussed on p. 85.
 
-[^ref14]: Stiegler’s idiotextual geometry: Article 5, [pp. 245–247](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=246).
+[^ref14]: Stiegler’s idiotextual geometry: Article 5, pp. 245–247.
 
-[^ref15]: Retro-futurist scenography, [p. 69](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=70). The earlier formulation is “consumable futurisms”, [p. 58](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=59).
+[^ref15]: Retro-futurist scenography, p. 69. The earlier formulation is “consumable futurisms”, p. 58.
 
 [^ref16]: Alexander Bogdanov, Red Star (Красная звезда), Saint Petersburg, 1908. First-edition catalogue, National Electronic Library / Russian State Library. [Source](https://rusneb.ru/catalog/000199_000009_003746695/).
 

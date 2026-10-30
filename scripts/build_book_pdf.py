@@ -31,6 +31,8 @@ def figure(el,height=115,append=True):
  url=SITE+im.get('src')
  if el.get('data-slide-ref'):url=SITE+'defence/Syntheticism-Defence-21-September-2026.pdf#page='+el.get('data-slide-ref')
  return b.image(im.get('src').split('?',1)[0],cap,url,height=height,append=append)
+if not json.loads((R/'metadata.json').read_text())['dissertation'].get('publicly_available',True):
+ imprint[-1]=rich(link(SITE+'documentation/rights.md','Rights and reuse'))
 b.data['cover-image']=figure(tree.xpath('//figure[@class="opening-image"]')[0],62,append=False)
 backlinks={}
 reference_anchors={'ref'+str(p['number']):p['anchor']for p in json.loads((R/'transcript/navigation.json').read_text())['passage_references']}
@@ -59,7 +61,7 @@ for el in tree.xpath('//section[@id="references"]/*'):
  if el.tag=='h2':continue
  if el.tag=='h3':b.section(el.text_content(),'references-'+el.text_content().lower().replace(' ','-'))
  elif el.tag=='div'and el.get('class')=='article-record':
-  label=el.xpath('./a')[0];b.add('article',label=label.text_content(),title=el.xpath('./h4')[0].text_content(),url=label.get('href'),body=inline(el.xpath('./p')[0]))
+  label=el.xpath('./a')[0];b.add('article',label=label.text_content(),title=el.xpath('./h4')[0].text_content(),url=label.get('href')or'#references-articles',body=inline(el.xpath('./p')[0]))
  elif el.tag=='p':
   ident=el.get('id');backs=[]
   if ident and backlinks.get(ident):

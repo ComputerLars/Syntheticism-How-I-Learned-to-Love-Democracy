@@ -4,7 +4,7 @@
 
 **[Read and listen · public defence](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/)**
 
-Dissertation, slides and reading transcript of the public PhD defence on **21 September 2026**. The PhD degree was awarded on **6 October 2026**.
+Slides and reading transcript of the public PhD defence on **21 September 2026**. The PhD degree was awarded on **6 October 2026**.
 
 [ORCID 0009-0003-1523-1987](https://orcid.org/0009-0003-1523-1987) · [Aarhus University profile](https://www.au.dk/en/show/person/abs%40cc.au.dk)
 
@@ -12,21 +12,21 @@ Dissertation, slides and reading transcript of the public PhD defence on **21 Se
 
 | Part | Extended synthesis | Printed page |
 | :--- | :--- | ---: |
-| N | Syntheticism as a Trajectory of Response | [7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=8) |
-| I | RQ1: The Synthetic Party after Syntheticism | [40](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=41) |
-| II | RQ2: From Synthetic Summits to Synthetic Politics | [63](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=64) |
-| III | RQ3: Democracy as Technosocial Sculpture | [81](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=82) |
-| IV | Reorientation, Or: How I Learned to Stop Worrying and Love Democracy | [110](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=111) |
+| N | Syntheticism as a Trajectory of Response | 7 |
+| I | RQ1: The Synthetic Party after Syntheticism | 40 |
+| II | RQ2: From Synthetic Summits to Synthetic Politics | 63 |
+| III | RQ3: Democracy as Technosocial Sculpture | 81 |
+| IV | Reorientation, Or: How I Learned to Stop Worrying and Love Democracy | 110 |
 
 | Article | Title in the contents | Authors | Printed page |
 | ---: | :--- | :--- | ---: |
-| 1 | *The Synthetic Party & Leader Lars* | Asker Bryld Staunæs & Computer Lars | [135](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136) |
-| 2 | *A Model for Proustian Decay* | Asker Bryld Staunæs & Computer Lars | [157](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158) |
-| 3 | *Isaac Asimov’s Incubation of Political AI* | Asker Bryld Staunæs | [180](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181) |
-| 4 | *Deep Faking in a Flat Reality?* | Asker Bryld Staunæs & Maja Bak Herrie | [207](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208) |
-| 5 | *Scripting the Spectacle* | Asker Bryld Staunæs | [235](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236) |
-| 6 | *Synthetic Chamber* | Michal Malý & Asker Bryld Staunæs | [268](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269) |
-| 7 | *Democracy as a Governance Algorithm* | Asker Bryld Staunæs | [296](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297) |
+| 1 | *The Synthetic Party & Leader Lars* | Asker Bryld Staunæs & Computer Lars | 135 |
+| 2 | *A Model for Proustian Decay* | Asker Bryld Staunæs & Computer Lars | 157 |
+| 3 | *Isaac Asimov’s Incubation of Political AI* | Asker Bryld Staunæs | 180 |
+| 4 | *Deep Faking in a Flat Reality?* | Asker Bryld Staunæs & Maja Bak Herrie | 207 |
+| 5 | *Scripting the Spectacle* | Asker Bryld Staunæs | 235 |
+| 6 | *Synthetic Chamber* | Michal Malý & Asker Bryld Staunæs | 268 |
+| 7 | *Democracy as a Governance Algorithm* | Asker Bryld Staunæs | 296 |
 
 Appendices begin on p. **326**; the English abstract occupies pp. **327–330**, and the Danish resumé pp. **331–334**. Page numbers throughout this overview refer to the printed folios. The PDF has 336 pages; its viewer page number is one higher than the printed folio.
 
@@ -37,12 +37,11 @@ Appendices begin on p. **326**; the English abstract occupies pp. **327–330**,
 | Material | File |
 | :--- | :--- |
 | Defence book, PDF | [Transcript, photographs, slides and references](transcript/Syntheticism-Defence-Reading-Edition.pdf) |
-| Complete dissertation, PDF | [Read or download](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf) |
 | Defence slides, 21 September 2026, including the speaker notes used on the day | [PowerPoint](defence/Syntheticism-Defence-21-September-2026.pptx) |
 | Recordings of the defence | [Video and audio](https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy/releases/tag/defence-recordings-20260921) |
 | Author-edited reading transcript: opening lecture and discussions with Jan Bäcklund, Sine Nørholm Just and Jussi Parikka; proceedings led by Stefan Iversen | [Word reading edition](transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx) · [Read on GitHub](transcript/defence-transcript.md) |
 
-The author-edited transcript accompanies the audio and video recordings. Timestamps restart for recording 2. Article and page references link to the dissertation. See the [edition note](documentation/transcript-editorial.md).
+The author-edited transcript accompanies the audio and video recordings. Timestamps restart for recording 2. Article and page references use the dissertation’s printed pagination. See the [edition note](documentation/transcript-editorial.md).
 
 ## Defence and degree
 
@@ -94,7 +93,7 @@ The appendices on p. 326 identify the following documentation:
 
 ## English abstract
 
-*Dissertation, pp. 327–330. Text reproduced from the included PDF; PDF line wrapping has been removed.*
+*Dissertation, pp. 327–330. Text reproduced from the dissertation; PDF line wrapping has been removed.*
 
 With Syntheticism: How I Learned to Love Democracy, I present a PhD dissertation in artistic research. The dissertation consists of seven research articles brought together through an extended synthesis. In this format, the synthesis performs a monographic role. It is the place where the dissertation gathers itself around its theory. The synthesis unfolds in five parts. It begins by analysing the trajectory of my research practice. It then moves through three parts, each organised around one research question across concepts, practice phases, and articles. The final part reorients at the level of the whole. This makes the dissertation readable in two directions: as a continuous line from beginning to end, and as a transversal structure in which each research question can be followed between the synthesis and the articles.
 
@@ -122,7 +121,7 @@ How I learned to love democracy, then, was not through renewed civic faith or af
 
 ## Dansk resumé
 
-*Afhandlingen, s. 331–334. Teksten er gengivet fra den vedlagte PDF; PDF’ens linjeombrydninger er fjernet.*
+*Afhandlingen, s. 331–334. Teksten er gengivet fra afhandlingen; PDF’ens linjeombrydninger er fjernet.*
 
 Med Syntheticism: How I Learned to Love Democracy fremlægger jeg en ph.d.-afhandling i kunstnerisk forskning. Den består af syv forskningsartikler, der bindes sammen i en udvidet syntese. I dette format udfylder den udvidede syntese en monografisk funktion som det sted, hvor afhandlingen samler sig om sine teorier. Syntesen falder i fem dele. Først analyserer den mit praktiske forløb. Derefter følger tre dele, som hver arbejder med ét forskningsspørgsmål på tværs af begreber, praksisfaser og artikler. Til sidst samler jeg op på helhedsniveau. Dermed kan afhandlingen læses kronologisk fra ende til anden, men også tværgående ved at følge spørgsmålene mellem syntesen og artiklerne.
 

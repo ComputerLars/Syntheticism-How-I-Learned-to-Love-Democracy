@@ -1,8 +1,8 @@
 {
   "source": "defence/Syntheticism-Defence-21-September-2026.pptx",
-  "source_sha256": "7d4b9ea8f8e089b98717f4507c594a4ee94ee4b36d3849ac5d56339786b4471e",
+  "source_sha256": "2bdcc60980e9c348469608b92b568bced164d1ffa2f80717117e519cac7705a1",
   "pdf": "defence/Syntheticism-Defence-21-September-2026.pdf",
-  "pdf_sha256": "4b53641fbc4424a29360c3132b9cfffd4e475d2d1b29d28f1fd1a687d5b30066",
+  "pdf_sha256": "e1a70d6ca342a6fc8e23593bd1bbb8ede29f935a548488cf52b107eb8299644b",
   "renderer": "Microsoft PowerPoint for Mac; local print export; embedded Garamond and Consolas",
   "dimensions": [
     1920,
@@ -120,7 +120,7 @@
     },
     {
       "slide": 25,
-      "sha256": "529203bfb841d7cdfd1bf5e8396685c8bc3264228c89ea7b70bbffd3669e7f37"
+      "sha256": "8df6f4fb2d031f324d6341d9527e6394dc9b96a1143ee622910d955fc7152b8a"
     },
     {
       "slide": 26,
@@ -132,11 +132,11 @@
     },
     {
       "slide": 28,
-      "sha256": "ac3808048a3bf55aa5fb61488358571fcb70caf755ad268fed0976a6f5681c14"
+      "sha256": "07719ca0d5742a43c5b19a028644c2bd3f20f6155b7d22102318c313bd037ecc"
     },
     {
       "slide": 29,
-      "sha256": "1a39a30e089056ec3497f4d626989b0a53b2486487d4cb890afd8f77a3f5b8af"
+      "sha256": "1ab58f58561f68bf2d1b9a3d378c32f049e6374ec38cdf5be08b6d68f341d6fb"
     },
     {
       "slide": 30,

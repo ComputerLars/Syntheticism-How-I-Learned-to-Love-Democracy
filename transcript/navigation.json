@@ -1426,7 +1426,7 @@
     }
   ],
   "pdf": {
-    "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
+    "url": null,
     "printed_folio_offset": 1
   },
   "articles": [
@@ -1438,7 +1438,7 @@
         135,
         155
       ],
-      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136"
+      "url": "#references"
     },
     {
       "number": 2,
@@ -1448,7 +1448,7 @@
         157,
         177
       ],
-      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158"
+      "url": "#references"
     },
     {
       "number": 3,
@@ -1458,7 +1458,7 @@
         180,
         205
       ],
-      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181"
+      "url": "#references"
     },
     {
       "number": 4,
@@ -1468,7 +1468,7 @@
         207,
         233
       ],
-      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208"
+      "url": "#references"
     },
     {
       "number": 5,
@@ -1478,7 +1478,7 @@
         235,
         265
       ],
-      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236"
+      "url": "#references"
     },
     {
       "number": 6,
@@ -1488,7 +1488,7 @@
         268,
         294
       ],
-      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269"
+      "url": "#references"
     },
     {
       "number": 7,
@@ -1498,7 +1498,7 @@
         296,
         324
       ],
-      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297"
+      "url": "#references"
     }
   ],
   "passage_references": [

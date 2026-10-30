@@ -118,6 +118,8 @@ def build():
   document=document.replace('"'+asset+'"','"'+asset+'?v='+version+'"')
  if 'hall'in photos or 'opening'in photos:
   p=photos['hall'if 'hall'in photos else'opening'];document=document.replace('<img id="poster" src="assets/defence-poster.jpg" width="960" height="540" alt="Asker Bryld Staunæs presenting the dissertation in Lille Sal, with the assessment committee and audience.">','<img id="poster" src="'+p['src']+'" width="'+str(p['width'])+'" height="'+str(p['height'])+'" alt="Asker Bryld Staunæs at the lectern with the assessment committee and seated audience, Lille Sal, 21 September 2026.">')
+ if not meta['dissertation'].get('publicly_available',True):
+  document=re.sub(r'<a href="[^"]*dissertation/Syntheticism-How-I-Learned-to-Love-Democracy\.pdf[^"]*">(.*?)</a>',lambda m:'' if m[1]=='Dissertation'else m[1],document,flags=re.S)
  (R/'index.html').write_text(document+'\n')
  print('Defence page:',len(sections),'sections;',sum(len(s['turns'])for s in sections),'turns;',len(slides),'slides')
 if __name__=='__main__':build()

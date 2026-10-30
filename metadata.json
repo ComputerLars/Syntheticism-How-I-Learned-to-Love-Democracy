@@ -94,9 +94,10 @@
       331,
       334
     ],
-    "read_url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
+    "read_url": null,
     "edition_date": "2026-10-18",
-    "supplied_filename": "Afhandling.pdf"
+    "supplied_filename": "Afhandling.pdf",
+    "publicly_available": false
   },
   "slides": {
     "file": "defence/Syntheticism-Defence-21-September-2026.pptx",

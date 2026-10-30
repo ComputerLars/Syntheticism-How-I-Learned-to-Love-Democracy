@@ -7,3 +7,6 @@ __pycache__/
 
 # Reproducible local Typst build
 /.book-build/
+
+# Dissertation retained locally, not distributed
+/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf

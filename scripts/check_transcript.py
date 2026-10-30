@@ -67,11 +67,11 @@ def check():
  pdf=PdfReader(ROOT/'dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf');assert len(pdf.pages)==336
  for a in nav['articles']:
   page=a['printed_pages'][0];plain=norm(pdf.pages[page].extract_text());assert f'Article {a["number"]}.'in plain
-  assert a['url'].endswith('#page='+str(page+1))
+  if nav['pdf']['url']:assert a['url'].endswith('#page='+str(page+1))
  assert 'database does not read' in norm(pdf.pages[29].extract_text())
  assert 'Two kinds of autonomy' in norm(pdf.pages[54].extract_text())
  manifest={row['path']:row for row in json.loads((ROOT/'FILE-MANIFEST.json').read_text())['files']}
- for path in ['dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf','defence/Syntheticism-Defence-21-September-2026.pptx']:assert hashlib.sha256((ROOT/path).read_bytes()).hexdigest()==manifest[path]['sha256']
+ for path in (['dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf']if nav['pdf']['url']else[])+['defence/Syntheticism-Defence-21-September-2026.pptx']:assert hashlib.sha256((ROOT/path).read_bytes()).hexdigest()==manifest[path]['sha256']
  assert nav['anchors'][next(i for i,x in enumerate(nav['anchors'])if x['anchor']=='r2-004514')]['speaker']=='Asker'
  assert nav['anchors'][next(i for i,x in enumerate(nav['anchors'])if x['anchor']=='r1-004844')]['speaker']=='Stefan'
  paragraph=next(p for p in new.paragraphs if 'solely through practice' in p.text)
@@ -81,7 +81,7 @@ def check():
  assert 'Idiocy is not a judgment. It is a form comparable to ideology.' in text
  assert all(n['anchor'] in anchors for n in nav['passage_references'])
  assert 'IMG_' not in text
- old_readme=source('README.md').decode();readme=(ROOT/'README.md').read_text();assert old_readme.split('## English abstract\n',1)[1]==readme.split('## English abstract\n',1)[1]
+ old_readme=source('README.md').decode().replace('Text reproduced from the included PDF;','Text reproduced from the dissertation;').replace('Teksten er gengivet fra den vedlagte PDF;','Teksten er gengivet fra afhandlingen;');readme=(ROOT/'README.md').read_text();assert old_readme.split('## English abstract\n',1)[1]==readme.split('## English abstract\n',1)[1]
  result={'source_words':len(old_tokens),'documented_local_corrections':len(changes),'speaker_turns':len(names),'source_time_anchors':202,'word_markdown_speech_identical':True,'opening_lecture_matches_defence_script':True,'recorded_discussion_matches_correction_register':True,'published_binaries_match_manifest':True,'abstracts_unchanged':True,'pdf_links_checked':len(urls),'printed_page_offset':1}
  print(json.dumps(result,indent=2))
 

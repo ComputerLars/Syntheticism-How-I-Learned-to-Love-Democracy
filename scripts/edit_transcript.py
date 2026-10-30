@@ -62,7 +62,7 @@ NOTE_MAP={key:(i,text,pages)for i,(key,text,pages)in enumerate(NOTES,1)}
 def source(path):
  return subprocess.check_output(['git','show',BASE+':'+path],cwd=ROOT)
 
-def page_url(n):return PDF+'#page='+str(n+1)
+def page_url(n):return PDF+'#page='+str(n+1)if json.loads((ROOT/'metadata.json').read_text())['dissertation'].get('publicly_available',True)else'#references'
 def unbroken_range(text):return re.sub(r'(?<=\d)–(?=\d)','\u2060–\u2060',text)
 
 CORRECTIONS=json.loads((ROOT/'documentation/transcript-corrections.json').read_text())
